@@ -1,6 +1,6 @@
 import random
 import time
-import sys
+import sys 
 from collections import Counter
 
 options = ("rock", "paper", "scissors")
